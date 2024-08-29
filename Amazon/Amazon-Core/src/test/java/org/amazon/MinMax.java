@@ -51,7 +51,8 @@ public class MinMax {
             System.out.println("Data is :::"+i);
             count = count +i;
         }
+        
+ System.out.println("Odd count");
         System.out.println("Odd count is ::"+count);
-
     }
 }
